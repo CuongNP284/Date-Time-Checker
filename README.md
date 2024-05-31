@@ -45,15 +45,15 @@
 
 * CheckDate-DDTTest
 
-![CheckDateDDTTest](https://github.com/CuongNP284/DateTimeChecker/blob/main/Screenshots/CheckDateDDTTest.png)
+![CheckDateDDTTest](https://github.com/CuongNP284/Date-Time-Checker/blob/main/Screenshots/CheckDateDDTTest.png)
 
 * DaysInMonth-Test
 
-![DaysInMonthTest](https://github.com/CuongNP284/DateTimeChecker/blob/main/Screenshots/DaysInMonthTest.png)
+![DaysInMonthTest](https://github.com/CuongNP284/Date-Time-Checker/blob/main/Screenshots/DaysInMonthTest.png)
 
 * DaysInMonth-DDTTest
 
-![DaysInMonthDDTTest](https://github.com/CuongNP284/DateTimeChecker/blob/main/Screenshots/DaysInMonthDDTTest.png)
+![DaysInMonthDDTTest](https://github.com/CuongNP284/Date-Time-Checker/blob/main/Screenshots/DaysInMonthDDTTest.png)
 
 
 #### © 2024 Cuong-Nguyen-Phu
